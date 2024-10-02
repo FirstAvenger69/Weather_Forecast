@@ -28,10 +28,3 @@ Additional description about the project and its features.
 ## Live Demo
 
 [Live Demo Link](https://samirpaul1.github.io/WeatherApp/) :point_left:
-
-## Getting Started
-- Follow the live demo link.
-
-### Prerequisites
-
-- A modern browser, up to date.  :muscle:
